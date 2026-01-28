@@ -1,0 +1,16 @@
+{
+    "short_name": "家計簿",
+    "name": "カレンダー家計簿",
+    "icons": [
+      {
+        "src": "icon-512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "any maskable"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000"
+  }
